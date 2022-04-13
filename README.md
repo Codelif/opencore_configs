@@ -20,7 +20,7 @@ There are my configurations which are working.
 
 [Spec Sheet](https://support.hp.com/id-en/document/c04717162)
 ### Changes to Hardware
-* 10 GB RAM
+* 10 GB RAM (Dual channel running at 1600 MHz)(2GB, 8GB)
 * Disconnected WiFi and Bluetooth Card
 
 ## Bootloader
